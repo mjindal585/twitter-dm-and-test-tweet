@@ -26,7 +26,7 @@ function initTwitterOauth() {
       "https://api.twitter.com/1.1/statuses/update.json"
     , '1124595834522202112-Z04lXUS5axsxsxsxsmkg6rdY0Im5Ina8U7Dqv' //token
     , 'IPbTqxp9mng2VUIMleOefoVsITxsxdcfvgvszsxdXts4mohi100T2GrM0vr' //tokensecret
-    , {"status": "Tweet & Direct Message using NodeJS  via @mjindal585 success @nodejs @twitter " }
+    , {"status": "Tweet & Direct Message using NodeJS  via me . @mjindal585 #success @nodejs @twitter " }
     , cb
     );
   }
